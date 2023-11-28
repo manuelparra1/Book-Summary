@@ -16,6 +16,8 @@ Welcome to the OpenAI API Book Summarizer project! This tool utilizes the power 
 
 `cleaner.py`
 
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+
 ![Cleaner Image](cleaner.png =500x)
 
 ### Tokenizer

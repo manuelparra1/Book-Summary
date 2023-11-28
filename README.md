@@ -2,6 +2,8 @@
 
 ![Project Logo](cover.png)
 
+<img src='images/under_construction.png' width='64'>
+
 Welcome to the OpenAI API Book Summarizer project! This tool utilizes the power of the OpenAI API to provide insightful summaries of books. Whether you're a student looking for a quick overview or a busy professional trying to grasp the key points of a book on the go, this tool is designed to make your reading experience more efficient.
 
 ## Features
@@ -11,6 +13,8 @@ Welcome to the OpenAI API Book Summarizer project! This tool utilizes the power 
 - **Efficient Processing:** Utilizes advanced natural language processing techniques to ensure accurate and relevant summaries.
 
 ## The Code
+
+<img src='images/under_construction.png' width='64'>
 
 ### Cleaner
 
@@ -27,6 +31,10 @@ Welcome to the OpenAI API Book Summarizer project! This tool utilizes the power 
 ### Summarizer
 
 `summarizer.py`
+
+<img src='images/under_construction.png' width='64'>
+
+<br>
 
 <img src='summarizer.png' width='500'>
 
@@ -70,4 +78,6 @@ We welcome contributions from the community! If you have ideas for improvements,
 
 ## License
 
-- Under Construction -
+<img src='images/under_construction.png' width='128'>
+
+### Under Construction

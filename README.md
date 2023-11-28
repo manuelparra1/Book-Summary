@@ -23,7 +23,7 @@ git clone https://github.com/manuelparra1/Book-Summary.git
 2. Install dependencies:
 
 ```bash
-pip install -r requirements.txt
+requirements.txt
 ```
 
 3. Run the summarizer:
@@ -40,7 +40,7 @@ Customize the settings in `summarizer.py` to tailor the summarization process to
 - **`chapter_1.txt to chapter_9.txt`:** Individual text files for each chapter.
 - **`cleaner.py`:** Python script for cleaning and preprocessing text data.
 - **`summarizer.py`:** Main script for utilizing the OpenAI API for book summarization.
-- **`test.ipynb and test.py`:** Example notebooks and scripts for testing the functionality.
+- **`test.ipynb` and `test.py`:** Example notebooks and scripts for testing the functionality.
 - **`token_chunks.json`:** JSON file containing token chunks used in the summarization process.
 - **`tokenizer.py`:** Tokenization script for breaking down text into tokens.
 

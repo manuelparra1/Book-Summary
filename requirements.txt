@@ -1,0 +1,8 @@
+OpenAi Python Library
+`pip install openai`
+
+Spacy
+`pip install spacy`
+
+Spacy Pre-Trained NLP Model
+`python -m spacy download en_core_web_sm`

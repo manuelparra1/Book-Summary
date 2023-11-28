@@ -10,6 +10,26 @@ Welcome to the OpenAI API Book Summarizer project! This tool utilizes the power 
 - **Customizable Settings:** Tailor the summarization process to your preferences using the provided settings and options.
 - **Efficient Processing:** Utilizes advanced natural language processing techniques to ensure accurate and relevant summaries.
 
+## The Code
+
+### Cleaner
+
+`cleaner.py`
+
+![Cleaner Image](cleaner.png =500x)
+
+### Tokenizer
+
+`tokenizer.py`
+
+![Tokenizer Image](tokenizer.png =500x)
+
+### Summarizer
+
+`summarizer.py`
+
+![Summarizer Image](summarizer.png =500x)
+
 ## Getting Started
 
 Follow these simple steps to start using the OpenAI API Book Summarizer:

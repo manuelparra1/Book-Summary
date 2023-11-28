@@ -22,13 +22,13 @@ Welcome to the OpenAI API Book Summarizer project! This tool utilizes the power 
 
 `tokenizer.py`
 
-![Tokenizer Image](tokenizer.png =500x)
+<img src='tokenizer.png' width='500'>
 
 ### Summarizer
 
 `summarizer.py`
 
-![Summarizer Image](summarizer.png =500x)
+<img src='summarizer.png' width='500'>
 
 ## Getting Started
 
